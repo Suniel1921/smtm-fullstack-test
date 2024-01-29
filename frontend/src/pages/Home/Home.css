@@ -1,0 +1,49 @@
+.portfolioHeading {
+  display: flex;
+  justify-content: space-around;
+  gap: 5rem;
+  padding: 23px;
+}
+.btn {
+  padding: 5px 16px;
+  border: none;
+  border-radius: 5px;
+}
+
+.overviewBtn {
+  background-color: white;
+}
+
+.portfolioBtn {
+  background-color: rgba(133, 128, 128, 0.186);
+}
+
+.boxContainers{
+    background-color: gray;
+    margin:9px 9px;
+    border-radius: 9px;
+}
+
+.boxData {  
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+  padding: 15px;
+ 
+}
+
+.yourPortfolioBtn{
+    display: flex;
+    justify-content: flex-start;
+    gap: 12px;
+    padding: 23px;
+}
+
+.Fam{
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    margin:9px 9px;
+    border-radius: 9px;
+    padding: 18px;
+}
